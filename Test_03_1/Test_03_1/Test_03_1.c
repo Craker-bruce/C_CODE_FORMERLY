@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+void  main()
 {
 	//start   end 
 	// 1       100   ´Óstart¼Óµ½end
